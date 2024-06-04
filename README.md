@@ -3,7 +3,7 @@
 </h1>
   
 
-I'm a passionate new programmer eager to learn and contribute to the world of software development. I have a growing interest in [your interests, e.g., web development, data science, AI, etc.] and I'm always looking for opportunities to expand my knowledge and skills.
+I'm a passionate new programmer eager to learn and contribute to the world of software development. I have a growing interest in web development and AI and I'm always looking for opportunities to expand my knowledge and skills.
 
 - 🌱 Currently learning Python.
 - 👯 Looking to collaborate on: Open-source projects, hackathons, and coding challenges
