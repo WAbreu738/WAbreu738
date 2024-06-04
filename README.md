@@ -6,21 +6,27 @@
 
 I'm a passionate new programmer eager to learn and contribute to the world of software development. I have a growing interest in [your interests, e.g., web development, data science, AI, etc.] and I'm always looking for opportunities to expand my knowledge and skills.
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-- 🌱 Currently learning Python.
-- 👯 Looking to collaborate on: Open-source projects, hackathons, and coding challenges
-- 🤔 Seeking help with: Best practices in coding, project structuring, and contributing to open-source
-- 💬 Ask me about: My learning journey, projects I'm working on, or anything tech-related!
-- 🎓 I graduated from Rutgers Coding Bootcamp
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 50%;">
+    <ul>
+        <li>🌱 Currently learning Python.</li>
+        <li>👯 Looking to collaborate on: Open-source projects, hackathons, and coding challenges</li>
+        <li>🤔 Seeking help with: Best practices in coding, project structuring, and contributing to open-source</li>
+        <li>💬 Ask me about: My learning journey, projects I'm working on, or anything tech-related!</li>
+        <li>🎓 I graduated from Rutgers Coding Bootcamp</li>
+    </ul>
+  </div>
+  <div style="flex: 50%;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="left" />
+  </div>
+</div>
 
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 
-<table><tr><td valign="top" width="50%">
-
-
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 50%;">
 
 ### Frontend  
 <div align="center">  
@@ -30,14 +36,12 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
-
+  </div>
+  <div style="flex: 50%;">
 
 ### Backend  
 <div align="center">  
@@ -51,20 +55,18 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-
-
-</td></tr></table>  
-
+  </div>
+</div>  
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WAbreu738&show_icons=true&count_private=true&hide_border=true" align="center" /> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAbreu738&hide_border=true&layout=compact" align="center" />  
+## GitHub Stats  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=WAbreu738&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAbreu738&hide_border=true&layout=compact" align="center" />  
 </div>  
 <br/>  
+
 
 
 
