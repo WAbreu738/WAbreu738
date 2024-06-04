@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Wesley+Abreu!;" />
 </h1>
   
-![Profile Views](https://komarev.com/ghpvc/?username=WAbreu738&color=brightgreen)
 
 I'm a passionate new programmer eager to learn and contribute to the world of software development. I have a growing interest in [your interests, e.g., web development, data science, AI, etc.] and I'm always looking for opportunities to expand my knowledge and skills.
 
@@ -55,12 +54,28 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 
 <br/>  
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/WAbreu738" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/wes-abreu" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=WAbreu738&color=brightgreen)
+</div>  
+  
+
+<br/>  
+
 ## GitHub Stats  
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=WAbreu738&show_icons=true&count_private=true&hide_border=true" align="center" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAbreu738&hide_border=true&layout=compact" align="center" />  
-</div>  
-<br/>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAbreu738&hide_border=true&layout=compact" align="center" />
+</div> 
+<br/>
+
 
 
 
