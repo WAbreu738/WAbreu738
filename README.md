@@ -5,11 +5,11 @@
 
 I'm a passionate new programmer eager to learn and contribute to the world of software development. I have a growing interest in web development and AI and I'm always looking for opportunities to expand my knowledge and skills.
 
-- 🌱 Currently learning Python.
+- 🌱 Currently in the process of learning Typescript.
 - 👯 Looking to collaborate on: Open-source projects, hackathons, and coding challenges
 - 🤔 Seeking help with: Best practices in coding, project structuring, and contributing to open-source
 - 💬 Ask me about: My learning journey, projects I'm working on, or anything tech-related!
-- 🎓 I graduated from Rutgers Coding Bootcamp
+- 🎓 I graduated from Rutgers Coding Bootcamp and am excited to progress in my Coding Journey!
   
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
