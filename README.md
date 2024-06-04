@@ -19,10 +19,8 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 
 ## My Skill Set  
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
+<div>
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -34,8 +32,6 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td>
-<td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -49,9 +45,7 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-</td>
-</tr>
-</table>  
+</div>
 
 <br/>  
 
