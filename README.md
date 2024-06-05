@@ -53,7 +53,7 @@ I'm a passionate new programmer eager to learn and contribute to the world of so
 
 <div align="center">
   <a href="https://docs.credentials.rutgers.edu/6fb48c75-9765-4fa5-a187-12cd35793455" target="_blank">
-    <img src="https://github.com/TIrwin19/TIrwin19/assets/96069789/0cd7189f-a020-4243-9cd4-4033366e0455" height="130" />
+    <img src="https://github.com/TIrwin19/TIrwin19/assets/96069789/0cd7189f-a020-4243-9cd4-4033366e0455" height="150" />
   </a>
 </div>
   
